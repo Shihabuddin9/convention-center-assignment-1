@@ -1,0 +1,21 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+/* common css */
+body{
+    background-color: #E5E5E5;
+    color: #3E3E3E;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* navbar */
+.menulogowidth{
+    font-size: 22px;
+    font-weight: 700;
+
+}
+
+/* slider */
+.slidetext{
+    color: #03203C;
+}
