@@ -20,6 +20,12 @@ body{
     margin-top: 150px;
 }
 
+/* offcanvas */
+.offcanvas{
+    height: 15%;
+    margin-top: 46%;
+}
+
 /* our pakage 1, 2 @ 3*/
 .ourpakageheading{
     font-size: 38px;
