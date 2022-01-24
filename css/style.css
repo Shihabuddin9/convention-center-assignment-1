@@ -4,7 +4,7 @@
 /* common css */
 body{
     background-color: #E5E5E5;
-    color: #3E3E3E;
+    color: #0A0826;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -15,13 +15,9 @@ body{
 
 }
 
-/* slider */
-.slidetext p{
-    color: #03203C;
-
-}
-.slidetext{
-    color: #03203C;
+/* WEDDINGS EVENTS */
+.weddingsevents{
+    margin-top: 150px;
 }
 
 /* our pakage 1, 2 @ 3*/
@@ -58,6 +54,11 @@ body{
 }
 .ourpakagehottext{
    
+}
+
+/* Let's Plan Your Perfect Wedding */
+.weddingplan{
+    margin-top: 150px;
 }
 
 /* footer */
