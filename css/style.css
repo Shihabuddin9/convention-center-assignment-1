@@ -16,6 +16,46 @@ body{
 }
 
 /* slider */
+.slidetext p{
+    color: #03203C;
+
+}
 .slidetext{
     color: #03203C;
+}
+
+/* our pakage 1, 2 @ 3*/
+.ourpakageheading{
+    font-size: 38px;
+    font-weight: 600;
+    color: #0A0826;
+    text-align: center;
+    margin-top: 140px;
+    margin-bottom: 120px;
+}
+.ourpakagetext h1{
+    color: #231D4F;
+    font-size: 28px;
+    font-weight: 700;
+}
+.ourpakagetext, p{ 
+    font-size: 15px;
+    font-weight: 400;
+    color: #848199;
+}
+.ourpakagebtn{
+    background-color: #FFF5FB;
+    color: #3F87F5;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 24px;
+}
+/* Our package 3 */
+.ourpakagehot{
+    border-radius: 24px;
+    background-color: #3F87F5;
+    margin-top: -35px;
+}
+.ourpakagehottext{
+   
 }
